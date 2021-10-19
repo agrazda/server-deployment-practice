@@ -5,15 +5,18 @@
 Created by Jacob Knaack
 Followed along and retyped by Alex Grazda
 
-## Installation
 
 ## Summary of Problem Domain
+Creating a Server and Deploying to Heroku
 
-## Links to application deployment
+## Links to application deployment  
+[Testing Deployment DEV](https://alexgrazda-server-deploy-dev.herokuapp.com/)  
+[Testing Deployment PROD](https://alexgrazda-server-deploy-prod.herokuapp.com/)  
+[GET ROUTE-Repeat](https://alexgrazda-server-deploy-prod.herokuapp.com/repeat)
 
 ## Include embedded UML
+![UML Whiteboard](UML.png)
 
-## Talk about your routes
 
 ## Routes
 
