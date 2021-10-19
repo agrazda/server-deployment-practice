@@ -13,6 +13,8 @@ Creating a Server and Deploying to Heroku
 [Testing Deployment DEV](https://alexgrazda-server-deploy-dev.herokuapp.com/)  
 [Testing Deployment PROD](https://alexgrazda-server-deploy-prod.herokuapp.com/)  
 [GET ROUTE-Repeat](https://alexgrazda-server-deploy-prod.herokuapp.com/repeat)
+[GitHub Actions](https://github.com/agrazda/server-deployment-practice/actions)
+[Pull Requests](https://github.com/agrazda/server-deployment-practice/pulls?q=is%3Apr+is%3Aclosed)
 
 ## Include embedded UML
 ![UML Whiteboard](UML.png)
